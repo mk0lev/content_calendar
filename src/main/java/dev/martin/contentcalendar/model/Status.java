@@ -4,6 +4,7 @@ public enum Status {
     IDEA,
     IN_PROGRESS,
     WORKING_UNDER_PRESSURE,
+    WORKING_WHILE_NOISY,
     COMPLETED,
     PUBLISHED
 }
